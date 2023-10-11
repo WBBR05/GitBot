@@ -1,0 +1,2 @@
+1st day - We created a Telegram bot and added it to our group. After that, we wrote a simple code for the bot to send a message.
+2nd day - We mad bot which send commits into our chat group.
